@@ -20,4 +20,4 @@ app.post('/events',(req,res)=>{
 
 app.listen(4005,()=>{
 	console.log("Listing on port : 4005")
-})
+}) 
